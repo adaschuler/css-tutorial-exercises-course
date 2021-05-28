@@ -1,9 +1,11 @@
-ul li{
+ul li {
 	background: blue;
 }
 
-#thirditem{
+#thirditem {
 	background: yellow;
-} 
+}
+#thirditem li{
+	background: green;
+}
 /****** DON NOT EDIT ANYTHING ABOVE THIS LINE ****/
-  
